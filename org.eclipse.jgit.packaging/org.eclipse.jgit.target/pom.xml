@@ -49,7 +49,7 @@
   <parent>
     <groupId>org.eclipse.jgit</groupId>
     <artifactId>jgit.tycho.parent</artifactId>
-    <version>4.11.0-SNAPSHOT</version>
+    <version>4.10.0.201712302008-r.24-gf3bb0e268</version>
   </parent>
 
   <artifactId>org.eclipse.jgit.target</artifactId>
