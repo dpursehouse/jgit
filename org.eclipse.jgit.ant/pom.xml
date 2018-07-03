@@ -48,7 +48,7 @@
 	<parent>
 		<groupId>org.eclipse.jgit</groupId>
 		<artifactId>org.eclipse.jgit-parent</artifactId>
-		<version>4.7.2-SNAPSHOT</version>
+		<version>4.7.1.201706071930-r.21-g1dcb0688c</version>
 	</parent>
 
 	<artifactId>org.eclipse.jgit.ant</artifactId>
